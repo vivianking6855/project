@@ -1,0 +1,14 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- home fragment recycler view item-->
+    <dimen name="home_recycler_item_h">50dp</dimen>
+    <dimen name="home_split_padding">14dp</dimen>
+
+    <!-- Text -->
+    <dimen name="text_size_small">16sp</dimen>
+    <dimen name="text_size_medium">20sp</dimen>
+    <dimen name="text_size_large">24sp</dimen>
+</resources>

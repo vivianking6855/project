@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- bottom icons -->
+    <color name="itemIconTintFocus">#FFFFFF</color>
+    <color name="itemIconTintNormal">@android:color/darker_gray</color>
+    <color name="itemBackground">#3F51B5</color>
+
+    <!-- home recycler view -->
+    <color name="item_divider_color">#dedede</color>
+    <color name="item_select_color">#eaeaea</color>
+
+</resources>

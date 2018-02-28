@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">知识库</string>
+
+    <!-- bottom navigation -->
+    <string name="bottom_fist">知识</string>
+    <string name="bottom_second">竞技</string>
+    <string name="bottom_third">发现</string>
+    <string name="bottom_fourth">我的</string>
+
+    <!-- fragment -->
+    <string name="load_start">正在加载...</string>
+    <string name="load_success">加载成功</string>
+    <string name="load_fail">加载失败</string>
+    <string name="refresh_success">刷新成功喽</string>
+    <string name="refresh_fail">刷新失败</string>
+
+</resources>
